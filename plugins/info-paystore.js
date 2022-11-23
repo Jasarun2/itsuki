@@ -15,15 +15,15 @@ let handler =  m => m.reply(`
 ┊⫹⫺ *Permanent:* = _50k (Unlimited)_
 ╰═┅═━––––––๑
 *⫹⫺ PAYMENT*
-*DANA: 082123019956*
-*GOPAY: 082123019956*
-*PULSA: 082123019956*
+*DANA: 085925163305*
+*GOPAY: 0882019832084*
+*PULSA: 085925163305*
 
 🗣️: Kak, Kok harganya mahal banget?
 💬: Mau tawar menawar? boleh, silahkan chat owner aja
 Minat Hubungi Wa.me/6282123019956
 
-© 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝐅𝐢𝐤𝐫𝐢𝐢
+© 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 JabeBot
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['sewa', 'premium']
 handler.tags = ['main']
