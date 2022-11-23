@@ -21,7 +21,7 @@ let handler =  m => m.reply(`
 
 🗣️: Kak, Kok harganya mahal banget?
 💬: Mau tawar menawar? boleh, silahkan chat owner aja
-Minat Hubungi Wa.me/6282123019956
+Minat Hubungi Wa.me/6285222299347
 
 © 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 JabeBot
 `.trim()) // Tambah sendiri kalo mau
